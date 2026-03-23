@@ -71,8 +71,5 @@ SMS Gateway Integration (Zain, Jawaly, Yamamah, Msegat, Oursms, Unifonic, smsmis
 🤝 Teamwork & Collaboration  
 ⏱ Time Management
 
----
 
-## 📊 GitHub Stats
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=arafadev&show_icons=true&theme=radical&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arafadev&layout=compact&theme=radical)
+
